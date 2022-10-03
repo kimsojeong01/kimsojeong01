@@ -6,15 +6,15 @@
 <br>
 
 > ### 프로젝트
-<pre> <a href="https://retro-music.co.kr">RE:tro(레트로)</a> 레트로 음악 큐레이션/검색 사이트 </pre>
-* <a href="https://www.notion.so/RE-TRO-15d5dadcf1924e36bba7888977c379e2"> 레트로소개 </a>
+<pre> <a href="https://retro-music.co.kr" target="_blank">RE:tro(레트로)</a> 레트로 음악 큐레이션/검색 사이트 </pre>
+* <a href="https://www.notion.so/RE-TRO-15d5dadcf1924e36bba7888977c379e2" target="_blank"> 레트로소개 </a>
 
-<pre> <a href="https://www.mptifriend.com">mpti(믑티)</a> MBTI 기반 커뮤니티 서비스 </pre>
-* <a href="https://melodic-crane-7eb.notion.site/MBTI-e5b6da6ce0cf4ecc82d9c6add6a2ea80"> 믑티소개 </a>
+<pre> <a href="https://www.mptifriend.com" target="_blank">mpti(믑티)</a> MBTI 기반 커뮤니티 서비스 </pre>
+* <a href="https://melodic-crane-7eb.notion.site/MBTI-e5b6da6ce0cf4ecc82d9c6add6a2ea80" target="_blank"> 믑티소개 </a>
 
-<pre> <a href="https://d-velkit.com">D.Velkit(디벨킷)</a> 프로젝트 협업 툴 서비스 </pre>
+<pre> <a href="https://d-velkit.com" target="_blank">D.Velkit(디벨킷)</a> 프로젝트 협업 툴 서비스 </pre>
 
-<pre> <a href="#">일단이의영어마을</a> 영어단어 학습 서비스  </pre>
+<pre> <a href="#" target="_blank">일단이의영어마을</a> 영어단어 학습 서비스  </pre>
 
 
 
