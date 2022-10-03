@@ -1,11 +1,13 @@
-![readme](https://user-images.githubusercontent.com/100851211/193506223-3ee28f9b-b0be-4a77-a735-a17358932c61.png)
 > ### 나도 <개발자>가 될 수 있을까?
-<pre>개발공부,,, 생각보다 적성에 잘맞는것같은데요?💁🏻‍♀️</pre>
+<pre> 개발공부, 노력하고 있습니다🔥 </pre>
+![readme](https://user-images.githubusercontent.com/100851211/193508203-3c512c48-7a40-444d-ad5d-43e84a1b878f.png)
+
 
 <br>
 
 > ### 프로젝트
 <pre> <a href="https://retro-music.co.kr">RE:tro(레트로)</a> 레트로 음악 큐레이션/검색 사이트 </pre>
+<a href="https://www.notion.so/RE-TRO-15d5dadcf1924e36bba7888977c379e2"> → 레트로소개 </a>
 
 <pre> <a href="https://www.mptifriend.com">mpti(믑티)</a> MBTI 기반 커뮤니티 서비스 </pre>
 
