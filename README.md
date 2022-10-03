@@ -1,8 +1,22 @@
+![readme](https://user-images.githubusercontent.com/100851211/193506223-3ee28f9b-b0be-4a77-a735-a17358932c61.png)
 > ### 나도 <개발자>가 될 수 있을까?
 <pre>개발공부,,, 생각보다 적성에 잘맞는것같은데요?💁🏻‍♀️</pre>
 
 <br>
 
+> ### 프로젝트
+<pre> <a href="https://retro-music.co.kr">RE:tro(레트로)</a> 레트로 음악 큐레이션/검색 사이트 </pre>
+
+<pre> <a href="https://www.mptifriend.com">mpti(믑티)</a> MBTI 기반 커뮤니티 서비스 </pre>
+
+<pre> <a href="https://d-velkit.com">D.Velkit(디벨킷)</a> 프로젝트 협업 툴 서비스 </pre>
+
+<pre> <a href="#">일단이의영어마을</a> 영어단어 학습 서비스  </pre>
+
+
+
+<br>
+<br>
 <div>
   <h3>🎨원래 디자이너였다면서?🎨</h3>
 	<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
